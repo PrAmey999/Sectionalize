@@ -1,0 +1,7 @@
+.container-fluid
+{
+    padding: 10%;
+    font-size: 14px;
+    min-height: 100%;
+    display: inline-block;
+}

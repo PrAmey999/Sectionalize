@@ -1,0 +1,21 @@
+.container-fluid
+{
+    color: #656363;
+    background-color: #e7e6efc2;
+    min-height: 100%;
+    display: inline-block;
+}
+@media screen and (max-width: 767px) 
+{
+    p{
+      font-size:16px;
+    }
+  }
+
+@media screen and (min-width: 768px) 
+{
+    p{
+        font-size:20px;
+    }
+}
+  
